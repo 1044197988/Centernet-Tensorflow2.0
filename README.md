@@ -1,6 +1,6 @@
 # Centernet-Tensorflow2.0
 __Tensorflow2.0下运行目标检测网络Centernet（基于see--的keras-centernet）__<br>
-anchor-free目标检测属于anchor-free系列的目标检测，相比于CornerNet做出了改进，使得检测速度和精度相比于one-stage和two-stage的框架都有不小的提高，尤其是与YOLOv3作比较，在相同速度的条件下，CenterNet的精度比YOLOv3提高了4个左右的点。<br>
+Centernet目标检测属于anchor-free系列的目标检测，相比于CornerNet做出了改进，使得检测速度和精度相比于one-stage和two-stage的框架都有不小的提高，尤其是与YOLOv3作比较，在相同速度的条件下，CenterNet的精度比YOLOv3提高了4个左右的点。<br>
 
 ![Centernet](https://github.com/1044197988/Centernet-Tensorflow2.0/blob/master/image/Centernet.png)
 <br>
