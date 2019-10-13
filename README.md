@@ -28,7 +28,8 @@ https://github.com/see--/keras-centernet/releases/download/0.1.0/hpdet_coco_hg.h
 
 ## 参考
 [see--/keras-centernet](https://github.com/see--/keras-centernet)<br>
-感谢see--的代码，修改很少，修改后可以在Tensorflow2.0下运行，在1版本包含keras下，也可以运行。
+感谢see--的代码，修改很少，修改后可以在Tensorflow2.0下运行，在1版本包含keras下，也可以运行。<br>
+[kuku-sichuan/CenterNet](https://github.com/kuku-sichuan/CenterNet)
 
 ## 其他框架下的Centernet
 [xingyizhou-CenterNet-pytorch-官方](https://github.com/xingyizhou/CenterNet)<br>
